@@ -1,7 +1,6 @@
 # TODO. IMPORTS
 import turtle
-
-import colorgram
+#import colorgram
 from turtle import Turtle, Screen, dot
 from random import randint, choice
 
