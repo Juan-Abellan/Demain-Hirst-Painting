@@ -1,11 +1,8 @@
-
-Turtle &amp; the Graphical User Interface (GUI)
-
 <h1>Demain-Hirst-Painting</h1>
 
 <h2>Description</h2>
-Coding a basic Quiz Game applying OOP concepts.
-Turtle &amp; the Graphical User Interface (GUI)
+
+Graphical User Interface (GUI) using Turtle graphics in order to replicate a Demian Hirst painting. The colorgram python library is also used to extract the color palet from the original painting.
 
 <h2>Languages and Utilities Used</h2>
 
@@ -18,9 +15,9 @@ Turtle &amp; the Graphical User Interface (GUI)
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Playing: <br/>
-<a href="https://imgur.com/E0x3fPO"><img src="https://i.imgur.com/E0x3fPO.jpg" title="source: imgur.com" width=100%"  /></a>
-<a href="https://imgur.com/tfIN3l8"><img src="https://i.imgur.com/tfIN3l8.jpg" title="source: imgur.com" width="100%"  /></a>
+Painting: <br/>
+<a href="https://imgur.com/IiKQoXu"><img src="https://i.imgur.com/IiKQoXu.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/2LwFLFl"><img src="https://i.imgur.com/2LwFLFl.jpg" title="source: imgur.com" /></a>
 
 
 
